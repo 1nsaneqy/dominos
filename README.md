@@ -1,6 +1,6 @@
 # Checker Pizzaria Domino's 🍕
 
-**Checker Pizzaria Domino's** é uma ferramenta desenvolvida exclusivamente em **PHP**, nada mais feita para checkar logins de clientes que tem (ou não) cartão vinculado. Útil para aprovar suas pizzas em logins com pedidos, ou caso tenha algum cartão vinculado, mude o drop e no checkout apague o CVV2 pelo Charles Proxy.
+**Checker Pizzaria Domino's** é uma ferramenta desenvolvida exclusivamente em **PHP**, nada mais feita para checkar logins de clientes que tem (ou não) cartão vinculado. Útil para aprovar suas pizzas em logins com pedidos, ou caso tenha algum cartão vinculado, mude o drop e no checkout **apague o CVV2 pelo Charles Proxy.**
 
 ## 💊 Como usar?
 
